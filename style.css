@@ -1,0 +1,19 @@
+
+.container{
+  margin: 0 auto;
+  width: 60%;
+  display: flex;
+  flex-direction: row;
+}
+
+.cards {
+  display: flex;
+flex-wrap: wrap;
+}
+
+.card {
+  width: 200px;
+  height: 200px;
+  background-color: palegreen;
+  margin: 20px;
+}
